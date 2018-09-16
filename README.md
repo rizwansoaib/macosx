@@ -1,3 +1,9 @@
+## LIVE CD MAC-OS-X
+![screenshot from 2018-09-16 15-10-09](https://user-images.githubusercontent.com/29729380/45595107-46f52680-b9c4-11e8-9b30-8ed88bbd55da.png)
+
+
+
+
 ## HOME SCREEN
 
 ![screenshot from 2018-09-10 03-57-54](https://user-images.githubusercontent.com/29729380/45594628-e4982800-b9bb-11e8-866d-8e16bc94de10.png)
@@ -30,6 +36,9 @@
 ![screenshot from 2018-09-10 04-18-45](https://user-images.githubusercontent.com/29729380/45594653-072a4100-b9bc-11e8-93a3-401a463585d7.png)
 ## INTERNET SPEED IN TOP BAR AND NIGHT MODE SUPPORTED
 ![screenshot from 2018-09-10 05-42-42](https://user-images.githubusercontent.com/29729380/45594655-07c2d780-b9bc-11e8-96a3-5e0a5b89f92a.png)
+
+## BOOT SCREEN WITH APPLE LOGO
+![screenshot from 2018-09-16 15-14-20](https://user-images.githubusercontent.com/29729380/45595105-42c90900-b9c4-11e8-9921-5e181bcb02f2.png)
 
 
 
