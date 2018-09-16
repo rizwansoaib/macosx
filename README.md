@@ -32,3 +32,9 @@
 ![screenshot from 2018-09-10 05-42-42](https://user-images.githubusercontent.com/29729380/45594655-07c2d780-b9bc-11e8-96a3-5e0a5b89f92a.png)
 
 
+
+
+
+[CLICK HERE TO DOWNLOAD MAC-OS-X.iso](https://drive.google.com/open?id=1ckRZHQBaWvd5JBe123KfffzXe-_MIgo0)
+
+
