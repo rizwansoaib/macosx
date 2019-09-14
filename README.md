@@ -23,7 +23,19 @@
 
 ## Note=>> Default username is rizwan and password is sudo1234 
 
-
+# INSTALLATION
+        
+        sudo apt install curl
+        git clone https://github.com/rizwansoaib/macosx.git
+        cd macosx
+        chmod +x run.sh
+        ./run.sh
+        Now you have Successfully Download iso file in your Desktop 
+        
+        
+        For boot from USB or LiveUSB use rufus for windows for MAC and Linux Etcher.
+        
+        
 
 
 
