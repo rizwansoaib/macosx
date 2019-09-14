@@ -6,7 +6,7 @@
 
 
 # INSTALLATION
-        
+ ## Linux  
         sudo apt install curl
         git clone https://github.com/rizwansoaib/macosx.git
         cd macosx
@@ -16,16 +16,19 @@
         
         
         For boot from USB or LiveUSB use rufus for windows for MAC and Linux Etcher.
+   [Download Etcher every OS supported](https://www.balena.io/etcher/)
+
+  ## Windows
+   [CLICK HERE TO DOWNLOAD macosx.iso](https://drive.google.com/open?id=1ckRZHQBaWvd5JBe123KfffzXe-_MIgo0)
+   [Download rufus only Windows Supported](https://rufus.ie/)
         
- [Download rufus only Windows Supported](https://rufus.ie/)
  
- [Download Etcher every OS supported](https://www.balena.io/etcher/)
+ 
  
         
 
 
 
-[CLICK HERE TO DOWNLOAD macosx.iso](https://drive.google.com/open?id=1ckRZHQBaWvd5JBe123KfffzXe-_MIgo0)
 
 
 
