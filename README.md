@@ -1,5 +1,6 @@
 # MAC OS-X CUSTOMIZED OS  BASED  ON UBUNTU 18.04 
-
+ ![](https://img.shields.io/badge/Full%20size-3GB-success) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)![star this repo](http://githubbadges.com/star.svg?user=rizwansoaib&repo=macosx)](https://github.com/rizwansoaib/macosx)
+[![fork this repo](http://githubbadges.com/fork.svg?user=rizwansoaib&repo=macosx)](http://github.com/rizwansoaib/macosx/fork)
 
 ## FEATURES-
 
