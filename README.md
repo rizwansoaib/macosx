@@ -35,7 +35,7 @@
         
         For boot from USB or LiveUSB use rufus for windows for MAC and Linux Etcher.
         
- ![Download rufus](https://rufus.ie/)
+ [Download rufus](https://rufus.ie/)
  
         
         
