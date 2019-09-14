@@ -2,6 +2,32 @@
  ![](https://img.shields.io/badge/Full%20size-3GB-success) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)  [![star this repo](http://githubbadges.com/star.svg?user=rizwansoaib&repo=macosx)](https://github.com/rizwansoaib/macosx)
 [![fork this repo](http://githubbadges.com/fork.svg?user=rizwansoaib&repo=macosx)](http://github.com/rizwansoaib/macosx/fork)
 
+
+
+
+# INSTALLATION
+        
+        sudo apt install curl
+        git clone https://github.com/rizwansoaib/macosx.git
+        cd macosx
+        chmod +x run.sh
+        ./run.sh
+        Now you have Successfully Download iso file in your Desktop 
+        
+        
+        For boot from USB or LiveUSB use rufus for windows for MAC and Linux Etcher.
+        
+ [Download rufus only Windows Supported](https://rufus.ie/)
+ 
+ [Download Etcher every OS supported](https://www.balena.io/etcher/)
+ 
+        
+
+
+
+
+
+
 ## FEATURES-
 
 ## 1.APPLE LOGO BOOT SCREEN  
@@ -23,23 +49,6 @@
 
 ## Note=>> Default username is rizwan and password is sudo1234 
 
-# INSTALLATION
-        
-        sudo apt install curl
-        git clone https://github.com/rizwansoaib/macosx.git
-        cd macosx
-        chmod +x run.sh
-        ./run.sh
-        Now you have Successfully Download iso file in your Desktop 
-        
-        
-        For boot from USB or LiveUSB use rufus for windows for MAC and Linux Etcher.
-        
- [Download rufus only Windows Supported](https://rufus.ie/)
- 
- [Download Etcher every OS supported](https://www.balena.io/etcher/)
- 
-        
         
 
 
