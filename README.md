@@ -35,9 +35,9 @@
         
         For boot from USB or LiveUSB use rufus for windows for MAC and Linux Etcher.
         
- [Download rufus Windows Supported](https://rufus.ie/)
+ [Download rufus only Windows Supported](https://rufus.ie/)
  
- [Download Etcher All OS](https://www.balena.io/etcher/)
+ [Download Etcher every OS supported](https://www.balena.io/etcher/)
  
         
         
